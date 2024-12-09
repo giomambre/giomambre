@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Giovanni Mambretti</h1>
 
 # 💫 About Me:
-I am a third-year computer engineering student at Politecnico di Milano, passionate about coding, technology, music and loves to play electric guitar 🎸
+I am a third-year computer engineering student at Politecnico di Milano, passionate about coding, football, music and loves to play electric guitar 🎸
 
 
 ## 🌐 Socials:
