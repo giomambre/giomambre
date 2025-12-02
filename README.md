@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Giovanni Mambretti</h1>
 
 # 💫 About Me:
-Master of Science in Computer Engineering student at Politecnico di Milano , with a passion for software development, problem solving, and clean code. Also an electric guitar enthusiast 🎸.
+Master of Science Computer Engineering student at Politecnico di Milano , with a passion for software development, problem solving, and clean code. Also an electric guitar enthusiast 🎸.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gio.n.mb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni-mambretti-3202a2249) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@giovannimambretti8562) 
